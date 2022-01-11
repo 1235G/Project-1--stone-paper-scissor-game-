@@ -1,14 +1,18 @@
 # stone-paper-scissor-game
 
 
-Stone Paper Scissors Game (Python)
+Stone Paper Scissors Game (Python):
+
 A game completely build on python using Random module.
 
-Installation
+Installation:
+
 Simply install python in your machine
 
 Usage:
-Description
+
+Description:
+
 A simple character user interface game build on python using random module which came preinstalled with python. User have to choose its move by simply pressing its choice (1/2/3).
 1 Means stone
 2 means paper
