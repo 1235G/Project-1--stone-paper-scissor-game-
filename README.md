@@ -1,4 +1,4 @@
-# stone-paper-scissor-game
+# Stone-paper-scissor-game
 
 
 Stone Paper Scissors Game (Python):
