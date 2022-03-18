@@ -36,7 +36,9 @@ step1: program of rock stone scissor
 step2:
 Rules of Game
 Paper beats Stone-user will win
+
 Scissors beats Paper-computer will win
+
 Stone beats Paper - computer will win
 ![Screenshot 2022-03-19 001715](https://user-images.githubusercontent.com/88941914/159065404-57e0026b-6125-448b-8866-a1cc6c9b7254.png)
 
