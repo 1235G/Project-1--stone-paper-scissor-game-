@@ -25,9 +25,23 @@ Built With
 Python and python's random module
 
 What I learned
-I learned how the random choices are taken through the python while implementation. While working solo I learned that i have a good patience and am a good learner.
+I learned how the random choices are taken through the python while implementation. 
 
+
+
+step1: program of rock stone scissor
+![Screenshot 2022-03-19 001307](https://user-images.githubusercontent.com/88941914/159064805-9301b865-ef38-4229-8f4e-4d7c156ac7d7.png)
+![Screenshot 2022-03-19 001324](https://user-images.githubusercontent.com/88941914/159064823-3bf10d0d-f722-4d81-a135-671689857dfd.png)
+
+step2:
 Rules of Game
-Paper beats Stone
-Scissors beats Paper, and
-Stone beats Paper
+Paper beats Stone-user will win
+Scissors beats Paper-computer will win
+Stone beats Paper - computer will win
+![Screenshot 2022-03-19 001715](https://user-images.githubusercontent.com/88941914/159065404-57e0026b-6125-448b-8866-a1cc6c9b7254.png)
+
+
+
+
+
+
