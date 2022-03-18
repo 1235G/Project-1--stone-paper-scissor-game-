@@ -40,7 +40,7 @@ Paper beats Stone-user will win
 Scissors beats Paper-computer will win
 
 Stone beats Paper - computer will win
-![Screenshot 2022-03-19 001715](https://user-images.githubusercontent.com/88941914/159065404-57e0026b-6125-448b-8866-a1cc6c9b7254.png)
+![Screenshot 2022-03-19 001715 (2)](https://user-images.githubusercontent.com/88941914/159066245-e2c02ce7-2899-4014-9467-d622a50ee956.png)
 
 
 
