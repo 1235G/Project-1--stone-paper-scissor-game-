@@ -31,7 +31,7 @@ I learned how the random choices are taken through the python while implementati
 
 step1: program of rock stone scissor
 ![Screenshot 2022-03-19 001324 (2)](https://user-images.githubusercontent.com/88941914/159066558-62a87d21-0bdb-4147-b364-d8c5d6109934.png)
-![Screenshot 2022-03-19 001324](https://user-images.githubusercontent.com/88941914/159064823-3bf10d0d-f722-4d81-a135-671689857dfd.png)
+![Screenshot 2022-03-19 001324 (3)](https://user-images.githubusercontent.com/88941914/159066973-0e28097a-a751-465b-b0c6-5e47c6fbff90.png)
 
 step2:
 Rules of Game
