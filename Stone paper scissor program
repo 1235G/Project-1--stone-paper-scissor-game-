@@ -1,3 +1,5 @@
+#start
+
 Li1 = ["paper", "scissor", "stone"]
 
 import random
@@ -8,9 +10,11 @@ user_points = 0
 
 tie = 0
 
+#input
 number = int(input("enter the number of attempts"))
 
 for i in range(number):
+    #FOR LOOPS STARTS
     computer_input = random.choice(Li1)
     user_input = input('please enter any one value "paper", "scissor", "stone"')
         
@@ -42,6 +46,7 @@ for i in range(number):
     elif user_input  == computer_input:
         print("no one win the game")
         tie = tie + 1
+        #LOOP ENDS;
 
 print("Final Scores:")
 print("computerpoints : ",computer_points)
